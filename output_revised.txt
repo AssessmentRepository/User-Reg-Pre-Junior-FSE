@@ -1,4 +1,0 @@
-testViewAllUsers=false
-testGetUser=false
-testDeleteUserById=false
-testSaveUsers=false
